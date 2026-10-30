@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background-image: url(../images/fondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: "Tiny5 Duo", sans-serif;
+}
+
+h1 {
+    background-color: #66CCFF;
+    color: #003399;
+    border-left: 10px solid #CCFFCC;
+
+}
+
+img {
+    border: 5px solid black;
+    border-radius: 10px;
+    width: auto;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: inline;
+    border: 2px solid black;
+}
+
